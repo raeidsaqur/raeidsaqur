@@ -1,5 +1,10 @@
-## 👋 Quick Updates 
 :left_speech_bubble: I'm a 5th year Computer Science PhD (C) at the Dept. of Computer Science, University of Toronto (UofT) - currently in the process of finalizing my thesis. 
+
+## 👋 Quick Updates 
+
+**Fall 2024:** I am visiting the [Mathematical Institute, University of Oxford](https://www.maths.ox.ac.uk/) and the [Oxford-Man Institute (OMI) for Quantitative Finance](https://oxford-man.ox.ac.uk/) for the Michaelmas term (Fall semester) 2024.
+
+**Winter 2024:** I am co-instructing [CSC401](http://www.cs.toronto.edu/~raeidsaqur/csc401): Natural Language Computing (cross-listed with grad CSC2511) this semester (Winter 2024).
 
 🧑‍💻 **Research** Please see selected publications [here](https://www.cs.toronto.edu/~raeidsaqur/#research)
 
