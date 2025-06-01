@@ -1,4 +1,4 @@
-:left_speech_bubble: I'm a 5th year Computer Science PhD (C) at the Dept. of Computer Science, University of Toronto (UofT) - currently in the process of finalizing my thesis. 
+:left_speech_bubble: I'm a 4th (final) year Computer Science PhD (C) at the Dept. of Computer Science, University of Toronto (UofT) - currently in the process of finalizing my thesis. 
 
 ## 👋 Quick Updates 
 
