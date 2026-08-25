@@ -1,7 +1,7 @@
 :left_speech_bubble: I'm currently at Oxford, UK for the 2025-26 term.  
 
 ## 👋 Quick Updates 
-**Fall 2025** Post-Doctoral Research Scientist at the [Mathematical Institute, University of Oxford](https://www.maths.ox.ac.uk/) [Alan Turing Institute](https://www.turing.ac.uk/). 
+**Fall 2025** UKRI Post-Doctoral Research Fellow at the [Mathematical Institute, University of Oxford](https://www.maths.ox.ac.uk/) [Alan Turing Institute](https://www.turing.ac.uk/). 
 
 **Fall 2024:** I am visiting the [Mathematical Institute, University of Oxford](https://www.maths.ox.ac.uk/) and the [Oxford-Man Institute (OMI) for Quantitative Finance](https://oxford-man.ox.ac.uk/) for the Michaelmas term (Fall semester) 2024.
 
