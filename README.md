@@ -1,4 +1,4 @@
-:left_speech_bubble: I'm currently at Oxford, UK for the 2025-26 term.  
+:left_speech_bubble: I'm currently at Oxford, UK for the 2026-26 term. Reinventing how we understand sequential data; by bringing together _rough path theory_ and _modern machine-learning_ to build a new generation of transformers and tools for **real-world sequential data**.
 
 ## 👋 Quick Updates 
 **Fall 2025** UKRI Post-Doctoral Research Fellow at the [Mathematical Institute, University of Oxford](https://www.maths.ox.ac.uk/) [Alan Turing Institute](https://www.turing.ac.uk/). 
